@@ -51,7 +51,7 @@ export const Login = () => {
           <div className="w-12 h-12 rounded-full bg-luxury-emerald text-luxury-gold flex items-center justify-center shadow-md mb-2.5">
             <Sparkles className="w-6 h-6" />
           </div>
-          <h1 className="font-serif text-3xl font-black text-luxury-emerald tracking-widest text-center">AURA</h1>
+          <h1 className="font-serif text-3xl font-black text-luxury-emerald tracking-widest text-center">N97</h1>
           <p className="text-[10px] uppercase font-extrabold tracking-widest text-luxury-gold mt-1">Spa & Hair Salon Portal</p>
         </div>
 

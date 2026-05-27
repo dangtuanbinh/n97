@@ -25,7 +25,7 @@ export const EmployeeLayout = ({ children }) => {
         
         {/* Tên thương hiệu Spa */}
         <div className="font-serif font-black text-sm tracking-widest text-luxury-gold">
-          AURA SPA
+          N97 SPA
         </div>
 
         {/* Nút đăng xuất nhanh đầu ngón cái */}
